@@ -1,5 +1,5 @@
-# 喵咪日常 Neko Daily v1.5
+# 喵咪日常 Neko Daily v1.6
 
-新增存檔匯出、匯入與版本相容檢查。請將 index.html 放置於 GitHub Pages 儲存庫根目錄，並以 main /(root) 發布。
+本版優先進行介面精簡與視覺聚焦：主畫面先顯示貓咪與房間，將天氣設定、存檔備份、音效設定與技術說明改為可收合。並保留 v1.5 的存檔匯出、匯入與版本相容檢查。
 
-重要：升級前請在舊網頁匯出備份（若尚未支援匯出，可先保留同一瀏覽器原有網站存檔）。更換本機 HTML 為 GitHub Pages 不會自動轉移存檔。
+更新 GitHub Pages 時，請以新版 index.html 覆蓋儲存庫根目錄中的舊檔，再在 GitHub Desktop 執行 Commit 與 Push。
