@@ -1,5 +1,5 @@
-# 喵咪日常 Neko Daily v1.6
+# 喵咪日常 Neko Daily v1.7.2
 
-本版優先進行介面精簡與視覺聚焦：主畫面先顯示貓咪與房間，將天氣設定、存檔備份、音效設定與技術說明改為可收合。並保留 v1.5 的存檔匯出、匯入與版本相容檢查。
+在 v1.7.1 基礎上，將客廳窗戶改為落地窗，保留日夜與天氣系統、窗邊貓位、雙房間捲軸移動及原有存檔功能。
 
-更新 GitHub Pages 時，請以新版 index.html 覆蓋儲存庫根目錄中的舊檔，再在 GitHub Desktop 執行 Commit 與 Push。
+更新 GitHub Pages：將此資料夾內的 `index.html` 覆蓋專案根目錄同名檔案，Commit 到 main 後 Push origin。建議更新前先匯出存檔備份。
