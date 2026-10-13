@@ -1,13 +1,5 @@
-# 喵咪日常 (Neko Daily)
+# 喵咪日常 Neko Daily v1.5
 
-瀏覽器貓咪養成遊戲，支援全螢幕電子相框、鍵盤操作、天氣連動。
+新增存檔匯出、匯入與版本相容檢查。請將 index.html 放置於 GitHub Pages 儲存庫根目錄，並以 main /(root) 發布。
 
-## GitHub Pages
-
-在本 repository 的 Settings > Pages 中，Source 選擇 Deploy from a branch，Branch 選 main，資料夾選 /(root)，然後儲存。
-
-網站進入點是 `index.html`。
-
-## 注意
-
-遊戲進度儲存在瀏覽器 localStorage，不會在不同裝置間自動同步。天氣與部分貓咪錄音需要網路。請勿將 API 金鑰寫入此公開網站。
+重要：升級前請在舊網頁匯出備份（若尚未支援匯出，可先保留同一瀏覽器原有網站存檔）。更換本機 HTML 為 GitHub Pages 不會自動轉移存檔。
